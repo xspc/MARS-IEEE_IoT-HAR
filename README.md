@@ -11,3 +11,7 @@ Codes for IEEE Internet of Things Journal paper "MARS: Mixed Virtual and Real We
 > }
 
 The codes are tested in Ubuntu 16.04
+
+For the generation of virtual IMU data in this work, we refer to the method in [1]
+
+[1] https://github.com/eth-ait/dip18/tree/master/data_synthesis
